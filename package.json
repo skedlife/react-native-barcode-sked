@@ -1,10 +1,10 @@
 {
-  "name": "react-native-barcode-builder",
+  "name": "react-native-barcode-sked",
   "version": "2.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wonsikin/react-native-barcode-builder.git"
+    "url": "https://github.com/skedlife/react-native-barcode-sked.git"
   },
   "license": "Apache 2.0",
   "main": "index.js",
@@ -16,10 +16,10 @@
     "react-native",
     "barcode"
   ],
-  "author": "WonSikin <fnghwsj@gmail.com>",
+  "author": "Kevin Bloom <kevin@sked.life>",
   "dependencies": {
-    "@react-native-community/art": "^1.2.0",
-    "jsbarcode": "^3.8.0"
+    "react-native-svg": "13.4.0",
+    "jsbarcode": "^3.11.5"
   },
   "peerDependencies": {
     "prop-types": "^15.5.0"
