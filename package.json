@@ -1,6 +1,6 @@
 {
   "name": "react-native-barcode-sked",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   ],
   "author": "Kevin Bloom <kevin@sked.life>",
   "dependencies": {
-    "react-native-svg": "13.4.0",
+    "react-native-svg": "15.10.1",
     "jsbarcode": "^3.11.5"
   },
   "peerDependencies": {
